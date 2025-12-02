@@ -151,6 +151,7 @@ C:\Users\hp\Documents\projects\Backend course\fooddelivery\Food_Delivery\Food_De
 C:\Users\hp\Documents\projects\Backend course\fooddelivery\Food_Delivery\Food_Delivery\backend\obj\Debug\net8.0\FoodDeliveryAPI.csproj.CoreCompileInputs.cache
 C:\Users\hp\Documents\projects\Backend course\fooddelivery\Food_Delivery\Food_Delivery\backend\obj\Debug\net8.0\FoodDeliveryAPI.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\hp\Documents\projects\Backend course\fooddelivery\Food_Delivery\Food_Delivery\backend\obj\Debug\net8.0\FoodDeliveryAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\Documents\projects\Backend course\fooddelivery\Food_Delivery\Food_Delivery\backend\obj\Debug\net8.0\FoodDeliveryAPI.sourcelink.json
 C:\Users\hp\Documents\projects\Backend course\fooddelivery\Food_Delivery\Food_Delivery\backend\obj\Debug\net8.0\rjimswa.dswa.cache.json
 C:\Users\hp\Documents\projects\Backend course\fooddelivery\Food_Delivery\Food_Delivery\backend\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
 C:\Users\hp\Documents\projects\Backend course\fooddelivery\Food_Delivery\Food_Delivery\backend\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
